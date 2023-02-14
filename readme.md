@@ -3,7 +3,7 @@
 I have covered the below analysis.
 
 1. Company POV
-        1. Name of the company
+    1. Name of the company
         2. Founders
         3. Industry
         4. Subindustry
